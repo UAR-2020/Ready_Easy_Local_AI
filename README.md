@@ -10,7 +10,7 @@
 
 # Ready Simple Local Artificial Intelligence [AI] in Astra Linux (Debian/Ubuntu)
   + Deploying AI via Ollama and OpenWebUI Docker containers from a ready‑made set of archives and configurations. Create set
-# Готовый простой локальный искусственный интеллект [ИИ] в Astra Linux (Debian/Ubuntu)
+# Готовый Простой Локальный Искусственный Интеллект [ИИ] в Astra Linux (Debian/Ubuntu)
   + Развертывание ИИ через докеры Ollama и OpenWebUI из готового набора архивов и конфигураций. Создание набора
 
 # EN
