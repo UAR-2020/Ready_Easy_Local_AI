@@ -54,7 +54,7 @@ Ollama ожидает высвобождения после генерации �
 
 https://github.com/UAR-2020/Ready_Easy_Local_AI/discussions
 
-To copy configurations, it is recommended to use the RU version of the documentation
+To copy configurations, it is recommended to use the RU version of the documentation\n
 Для для копирования конфигураций рекомендуется использовать RU версию документации
 
 
