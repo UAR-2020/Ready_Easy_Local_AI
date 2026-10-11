@@ -36,13 +36,16 @@ Ollama ожидает высвобождения после генерации �
 ![alt text](https://github.com/UAR-2020/Ready_Easy_Local_AI/blob/main/Easy_local_AI.png?raw=true)
 
 + About the purpose, models and settings of Ollama and OpenWebUI [О предназначении, моделях и настройках Ollama и OpenWebUI]:\
-  https://ollama.com                                                         https://openwebui.com/
-  https://docs.ollama.com                                                 https://docs.openwebui.com
-  https://github.com/ollama/ollama                                   https://github.com/open-webui/open-webui
-  https://github.com/ollama/ollama/tree/main/docs          
-
+  https://ollama.com                                                        
+  https://docs.ollama.com                                                 
+  https://github.com/ollama/ollama                                   
+  https://github.com/ollama/ollama/tree/main/docs
+  https://openwebui.com/        
+  https://docs.openwebui.com
+  https://github.com/open-webui/open-webui
+  
 # Links to the ready‑made set of AI components [Ссылки на готовый набор компонентов ИИ]
-# Download all the components (39 GB) for the manual or create what is needed based on it / Скачайте все компоненты (39Gb) для мануала или создайте необходимое по нему:\
++ Download all the components (39 GB) for the manual or create what is needed based on it / Скачайте все компоненты (39Gb) для мануала или создайте необходимое по нему:\
 #  https://files.sberdisk.ru/s/KV0SZt26hVJKXLL
 
 ---
