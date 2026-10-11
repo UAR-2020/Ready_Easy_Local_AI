@@ -34,7 +34,6 @@ Ollama ожидает высвобождения после генерации �
 Мне это помогает в повседневном написании скриптов и прочих вопросах в ЛВС без Интернета
 
 ![alt text](https://github.com/UAR-2020/Ready_Easy_Local_AI/blob/main/Easy_local_AI.png?raw=true)
-ue)
 
 + About the purpose, models and settings of Ollama and OpenWebUI [О предназначении, моделях и настройках Ollama и OpenWebUI]:\
   https://ollama.com                                                         https://openwebui.com/
