@@ -1,6 +1,6 @@
 # Multilanguage MANUAL
-[![en](https://img.shields.io/badge/Lang-Ru-red.svg)](https://github.com/UAR-2020/Ready_Easy_Local_AI/blob/main/Easy_local_AI_ru.pdf)
-[![pt-br](https://img.shields.io/badge/Lang-En-blue.svg)](https://github.com/UAR-2020/Ready_Easy_Local_AI/blob/main/Easy_local_AI_en.pdf)
+[![en](https://img.shields.io/badge/Lang-Ru-red.svg)](https://github.com/UAR-2020/Ready_Easy_Local_AI/blob/main/Ready_Easy_Local_AI_ru.pdf)
+[![pt-br](https://img.shields.io/badge/Lang-En-blue.svg)](https://github.com/UAR-2020/Ready_Easy_Local_AI/blob/main/Ready_Easy_Local_AI_en.pdf)
 
 Выберите РУКОВОДСТВО с вашей версией языкового оформления [Lang|Ru]  /  Select the MANUAL with your version of the language design [Lang|En]  
 
