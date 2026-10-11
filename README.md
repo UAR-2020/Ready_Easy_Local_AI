@@ -5,6 +5,7 @@
 Выберите РУКОВОДСТВО с вашей версией языкового оформления [Lang|Ru]  /  Select the MANUAL with your version of the language design [Lang|En]  
 
 + Lazy, page 11 of the manual (deployment) / Ленивым, на страницу 11 мануала (развертывание)
++ Tested on Astra Linux 1.7.6 (Debian 10) OS / Тестировалось в ОС Astra Linux 1.7.6  (Debian 10)
 ---
 
 # Ready Simple Local Artificial Intelligence [AI] in Astra Linux (Debian/Ubuntu)
