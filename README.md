@@ -15,7 +15,7 @@
 
 # EN
 The provided Ollama configurations implies loading, using, and unloading the model after its use. 
-This is done to enable equal access for all users on the local network via the http://your-real-IP:3050 and to allow them 
+This is done to enable equal access for all users on the local network via the URL http://your-real-IP:3050 and to allow them 
 to access it one by one without increasing the load on the video adapter (to avoid exceeding VRAM limits). 
 Ollama waits for the model to be released after generation for a specific user, then responds to another user; in this process, 
 the loading and subsequent unloading a different selected model (in the OpenWebUI interface, 
@@ -26,7 +26,7 @@ It helps me with everyday scripting and other issues in an LAN without the Inter
 
 # RU
 Предоставленная конфигурация Ollama  подразумевают загрузку, использование и выгрузку модели после её использования. 
-Это сделано для возможности равноправного доступа всех пользователей локальной сети по адресу http://ваш_реальный_IP:3050 и их поочередного доступа 
+Это сделано для возможности равноправного доступа всех пользователей локальной сети по адресу URL http://ваш_реальный_IP:3050 и их поочередного доступа 
 без увеличения нагрузки на видеоадаптер (чтобы не выйти за пределы VRAM).  
 Ollama ожидает высвобождения после генерации определенному пользователю, затем отвечает другому, 
 при этом осуществляется загрузка и последующая выгрузка выбранной модели (в интерфейсе OpenWebUI,
