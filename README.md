@@ -4,7 +4,7 @@
 
 Выберите РУКОВОДСТВО с вашей версией языкового оформления [Lang|Ru]  /  Select the MANUAL with your version of the language design [Lang|En]  
 
-# Lazy people go to page 11 (deployment) / Лентяям идти на страницу 11 (развертывание)
++ Lazy people go to page 11 (deployment) / Лентяям идти на страницу 11 (развертывание)
 ---
 
 # Ready Simple Local Artificial Intelligence [AI] in Astra Linux (Debian/Ubuntu)
