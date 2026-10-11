@@ -4,7 +4,7 @@
 
 Выберите РУКОВОДСТВО с вашей версией языкового оформления [Lang|Ru]  /  Select the MANUAL with your version of the language design [Lang|En]  
 
-+ Lazy, page 11 of the manual (deployment) / Ленивым, на страницу 11 мануала (развертывание)
++ Lazy, page 11 of the manual (deployment), need install jq & curl for cli ai / Ленивым, на страницу 11 мануала (развертывание), необходтмо установить jq & curl для консольного ии
 + Tested on Astra Linux 1.7.6 (Debian 10) OS / Тестировалось в ОС Astra Linux 1.7.6  (Debian 10)
 ---
 
