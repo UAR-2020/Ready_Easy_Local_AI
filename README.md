@@ -35,7 +35,7 @@ Ollama ожидает высвобождения после генерации �
 
 ![alt text](https://github.com/UAR-2020/Ready_Easy_Local_AI/blob/main/Easy_local_AI.png?raw=true)
 
-+ About the purpose, models and settings of Ollama and OpenWebUI [О предназначении, моделях и настройках Ollama и OpenWebUI]:\
++ About the purpose, models and settings of Ollama and OpenWebUI [О предназначении, моделях и настройках Ollama и OpenWebUI]:
   https://ollama.com                                                        
   https://docs.ollama.com                                                 
   https://github.com/ollama/ollama                                   
