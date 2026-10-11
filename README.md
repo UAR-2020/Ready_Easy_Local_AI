@@ -8,9 +8,9 @@
 + Tested on Astra Linux 1.7.6 (Debian 10) OS / Тестировалось в ОС Astra Linux 1.7.6  (Debian 10)
 ---
 
-# Ready Simple Local Artificial Intelligence [AI] in Astra Linux (Debian/Ubuntu)
+# Ready Simple Local Artificial Intelligence [AI] on Astra Linux (Debian/Ubuntu)
   + Deploying AI via Ollama and OpenWebUI Docker containers from a ready‑made set of archives and configurations. Create set
-# Готовый Простой Локальный Искусственный Интеллект [ИИ] в Astra Linux (Debian/Ubuntu)
+# Готовый Простой Локальный Искусственный Интеллект [ИИ] на Astra Linux (Debian/Ubuntu)
   + Развертывание ИИ через докеры Ollama и OpenWebUI из готового набора архивов и конфигураций. Создание набора
 
 # EN
